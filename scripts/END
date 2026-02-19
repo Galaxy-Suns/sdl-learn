@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+prefix_name="$1"
+cd ../code && make -s "${prefix_name}.show"

@@ -1,0 +1,1 @@
+/home/galaxy/code/jupyter/notebook/cpp/sdl/code/1_window/main.cpp

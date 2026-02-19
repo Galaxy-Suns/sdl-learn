@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+file_prefix="$1"
+cd ../scripts
+./ln_before.sh "$file_prefix"
+python cp_before.py ../jupyter/"${file_prefix}.ipynb"
